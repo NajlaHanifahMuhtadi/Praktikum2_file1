@@ -13,3 +13,7 @@ void input(){
 int luasPersegi(){
     return p*l;
 }
+
+void output(){
+    
+}
