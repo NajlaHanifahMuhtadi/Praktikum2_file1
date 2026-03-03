@@ -16,4 +16,5 @@ int luasPersegi(){
 
 void output(){
     cout << "Hasilnya = " << luasPersegi()<< endl;
+    cout << "Terimakasih";
 }
